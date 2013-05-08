@@ -1,8 +1,8 @@
 ---
-title: recent
-date: '2013-05-08'
+title: 关于ViewPager性能的讨论
+date: '2013-05-06'
 description:对ViewPager性能优化的讨论
-categories:
+categories:Android
 ---
 
 > [@王中晟edison][] 

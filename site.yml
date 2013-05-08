@@ -1,0 +1,16 @@
+title : Koruk的Android技术之旅
+tagline: Android Mobile
+author :
+  name : Koruk Hwang
+  email : ceihwa@gmail.com
+  github : koruk
+  twitter : KorukHwang
+  feedburner : nope
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  

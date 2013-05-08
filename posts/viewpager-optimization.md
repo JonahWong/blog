@@ -2,7 +2,11 @@
 title: 关于ViewPager性能的讨论
 date: '2013-05-06'
 description:对ViewPager性能优化的讨论
-categories:Android
+categories:
+- android
+tags:
+- ViewPager
+
 ---
 
 > [@王中晟edison][] 

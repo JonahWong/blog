@@ -12,4 +12,4 @@ ___
 ___
 
 [weibo]:http://weibo.com/206267869 "KorukH"
-[weixin]:file:///Volumes/data/Temp_Images/weixin.jpg
+[weixin]:../media/weixin_barcode.jpg

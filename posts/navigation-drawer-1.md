@@ -14,9 +14,9 @@ tags:
 
 ## Navigation Drawer  - 第一部分   
 
-这篇文章是我在Google I/O 2013大会期间写的。会上`Google`发布了很多新的东西，其中之一就是第13次修订的`v4 support library`（v4表示最低支持`Api Level` 4，同理v13表示最低支持`Api Level `13）。这个版本的v4包对`Navigation Drawer`界面设计模式提供了官方支持。这种这种设计模式在过去的时间里迅速发展，被许多应用采纳。但在此之前都没有官方支持以及相应的规范。但此刻这种情况不存在了，官方推出了官方设计指南。  
+这篇文章是我在Google I/O 2013大会期间写的。会上`Google`发布了很多新的东西，其中之一就是第13次修订的`v4 support library`（v4表示最低支持`Api Level` 4，同理v13表示最低支持`Api Level `13）。这个版本的v4包对`Navigation Drawer`界面设计模式提供了官方支持。这种这种设计模式在过去的时间里迅速发展，被许多应用采纳。但在此之前都没有官方支持以及相应的规范。但此刻这种情况不存在了，官方推出了[官方设计指南](http://developer.android.com/design/patterns/navigation-drawer.html)。  
 
-在最近的关于Android的`Adapter`的系列文章中，我们用Spinner导航的方式创建了一个应用，今天这篇文章中，我们会将那个Spinner导航来用`Navigation Drawer`来实现。  
+在最近的关于Android的[`Adapter`](http://blog.stylingandroid.com/archives/1679)`系列文章中，我们用Spinner导航的方式创建了一个应用，今天这篇文章中，我们会将那个Spinner导航来用`Navigation Drawer`来实现。  
 
 首先我们需要做的是获取最新的v4兼容包（13次修订版），本文中的项目是`maven`项目，所以如果你不打算用`maven`的话，你需要删除已经通过`maven`方式导入的包，然后重新导入。   
 

@@ -1,3 +1,17 @@
+---
+title: Android新增的导航模式-Navigation Drawer
+date: '2013-05-18'
+description:Android新增的导航模式-Navigation Drawer
+categories:
+- android
+tags:
+- navigation drawer
+- Design Pattern
+- ActionBar
+- SlidingMenu
+
+---
+
 ## Navigation Drawer  - 第一部分   
 
 这篇文章是我在Google I/O 2013大会期间写的。会上`Google`发布了很多新的东西，其中之一就是第13次修订的`v4 support library`（v4表示最低支持`Api Level` 4，同理v13表示最低支持`Api Level `13）。这个版本的v4包对`Navigation Drawer`界面设计模式提供了官方支持。这种这种设计模式在过去的时间里迅速发展，被许多应用采纳。但在此之前都没有官方支持以及相应的规范。但此刻这种情况不存在了，官方推出了官方设计指南。  
